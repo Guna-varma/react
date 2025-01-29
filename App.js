@@ -4,6 +4,11 @@ const heading = React.createElement(
     {id:"heading"},
     "Hello world from React!");
 
+    const Surname = ()=>{
+
+<h2>Hello Meda !</h2>
+    }
+
     console.log(heading);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
